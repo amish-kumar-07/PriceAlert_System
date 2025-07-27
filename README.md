@@ -22,11 +22,12 @@
 
 ```bash
 git clone https://github.com/amish-kumar-07/PriceAlert_System
+cd PriceAlert_System
 ```
 2. Then Install Dependecies:
 
 ```bash
-npm run dev
+npm install && npm run dev
 ```
 3. Configure Env:
 ```bash
