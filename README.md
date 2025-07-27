@@ -1,7 +1,8 @@
-## Architecture Diagram
+<img width="1172" height="559" alt="Screenshot 2025-07-27 140309" src="https://github.com/user-attachments/assets/d2fb8089-3ab5-4bd4-a710-de8778fbf9bc" />## Architecture Diagram
 
 
-![Explain](https://github.com/user-attachments/assets/837d42ae-6898-485f-9141-c7011e570ba0)
+![Explain](<img width="1172" height="559" alt="Screenshot 2025-07-27 140309" src="https://github.com/user-attachments/assets/00f11095-ef0a-4699-a65c-99ffe562ccab" />
+)
 
 ## Sample Output
 ![WhatsApp Image 2025-06-20 at 13 19 13_9f26ff85](https://github.com/user-attachments/assets/a17ff089-28d8-41c5-9511-abe2e0666858)
