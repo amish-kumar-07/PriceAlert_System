@@ -1,6 +1,6 @@
-<img width="1172" height="559" alt="Screenshot 2025-07-27 140309" src="https://github.com/user-attachments/assets/d2fb8089-3ab5-4bd4-a710-de8778fbf9bc" />## Architecture Diagram
+## Architecture Diagram
 
-
+<img width="1172" height="559" alt="Screenshot 2025-07-27 140309" src="https://github.com/user-attachments/assets/d2fb8089-3ab5-4bd4-a710-de8778fbf9bc" />
 ![Explain](<img width="1172" height="559" alt="Screenshot 2025-07-27 140309" src="https://github.com/user-attachments/assets/00f11095-ef0a-4699-a65c-99ffe562ccab" />
 )
 
