@@ -27,7 +27,7 @@ cd PriceAlert_System
 2. Then Install Dependecies:
 
 ```bash
-npm install && npm run dev
+npm install 
 ```
 3. Configure Env:
 ```bash
