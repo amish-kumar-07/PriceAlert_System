@@ -21,7 +21,7 @@
 1. First, Git Clone:
 
 ```bash
-git clone https://github.com/amish-kumar-07/Price_Tracker_For_Ecom
+git clone https://github.com/amish-kumar-07/PriceAlert_System
 ```
 2. Then Install Dependecies:
 
